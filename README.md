@@ -1,5 +1,6 @@
 # JSON-to-ISO8583
-leonar.tambunan@gmail.com
+
+JSON endpoint to ISO8583 Server.
 
 ## Deployment Scenario
 ```
@@ -18,3 +19,9 @@ https://github.com/leonartambunan/iso8583-server-simulator-beanshell suits as IS
 
 ## How to run
 ```java -Xms126m -Xmx512m -jar target/json-iso-1.0.0.jar```
+
+
+
+## Commercial collaboration
+
+Feel free to send your inquiries about commercial collaboration (such as systems integration, Android/iOS applications development and other payment solutions) to leonar.tambunan@gmail.com.
